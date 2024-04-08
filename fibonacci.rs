@@ -9,5 +9,4 @@ fn fibo(n: u32) -> u32 {
 fn main() {
     let n = 20;
     println!("fibo {n} = {}", fibo(n));
-    
 }
